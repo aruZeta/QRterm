@@ -12,7 +12,7 @@ Pass input through arguments or stdin:
 Options:
 ========
 
--l, --ecLevel: Set the ECC (error correction level), possible values:
+-l, --ecLevel: Set the EC (error correction) level, possible values:
   * l, low
   * m, medium (default)
   * q, quartile
