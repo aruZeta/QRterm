@@ -1,6 +1,6 @@
 # Package
 
-version       = "0.0.1"
+version       = "1.0.0"
 author        = "aruZeta"
 description   = "A simple QR generator in your terminal."
 license       = "MIT"

@@ -23,4 +23,8 @@ Options:
 -v, --version: Show the version of the program
   """
 
-  versionMsg*: string = "QRterm v0.0.1"
+  versionMsg*: string =
+    """
+QRterm v1.0.0
+https://github.com/aruZeta/QRterm/releases/tag/v1.0.0
+    """
