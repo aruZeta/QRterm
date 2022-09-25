@@ -6,7 +6,7 @@ description   = "A simple QR generator in your terminal."
 license       = "MIT"
 srcDir        = "src"
 binDir        = "bin"
-bin           = @["QRterm"]
+bin           = @["qrterm"]
 
 # Dependencies
 
