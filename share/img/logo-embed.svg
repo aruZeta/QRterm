@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="20mm"
+   height="19.999981mm"
+   viewBox="0 0 20 19.999981"
+   version="1.1"
+   id="svg1276"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs1273">
+    <rect
+       x="-71.622353"
+       y="-14.460386"
+       width="176.23407"
+       height="51.461491"
+       id="rect4196" />
+  </defs>
+  <path
+     id="rect1316"
+     style="fill:#1d2021;stroke:#98971a;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;paint-order:stroke markers fill"
+     d="M 2.7846712e-7,-4.1499984e-7 H 20 V 19.99998 H 2.7846712e-7 Z" />
+  <g
+     id="g26459"
+     transform="translate(46.703183,-58.303405)">
+    <path
+       style="fill:#d79921;fill-opacity:1;stroke:none;stroke-width:0.200817"
+       d="m -36.693805,58.963949 c 0,0 -0.684843,0.541206 -1.383009,1.07875 -0.718198,-0.02272 -2.126863,0.137877 -2.890152,0.415572 -0.703109,-0.445442 -1.320932,-0.937255 -1.320932,-0.937255 0,0 -0.527948,0.908246 -0.859957,1.441268 -0.492388,0.261856 -0.986739,0.556405 -1.427351,0.946101 -0.512462,-0.203396 -1.106526,-0.451597 -1.125895,-0.459781 0.678643,1.368843 1.134874,2.739518 2.375925,3.563361 1.975837,-3.1205 11.157388,-2.8329 13.174081,-0.01765 1.303305,-0.679789 1.810186,-2.142345 2.322737,-3.492636 -0.05625,0.01765 -0.753604,0.251995 -1.205688,0.424441 -0.26993,-0.293888 -0.906152,-0.745706 -1.267765,-0.963794 -0.342995,-0.628102 -0.842221,-1.476653 -0.842221,-1.476653 0,0 -0.591285,0.439773 -1.276612,0.919585 -0.925896,-0.170967 -2.045769,-0.378577 -2.987681,-0.327154 -0.641163,-0.527022 -1.28548,-1.114113 -1.28548,-1.114113 z"
+       id="path3054" />
+    <path
+       style="fill:#fabd2f;fill-opacity:1;stroke:none;stroke-width:0.200817"
+       d="m -44.999427,64.357634 c 0,0 0.961899,2.329041 1.629953,3.947431 2.830766,3.734638 10.059421,3.994288 13.210746,0.07236 0.745707,-1.6806 1.751793,-4.042423 1.751793,-4.042423 -0.808469,1.197699 -2.124216,2.024476 -2.93456,2.46983 -0.575798,0.315441 -1.904428,0.506108 -1.904428,0.506108 l -3.48812,-1.807557 -3.508152,1.771401 c 0,0 -1.31096,-0.210677 -1.90445,-0.488041 -1.197812,-0.639419 -2.003435,-1.394853 -2.852782,-2.429063 z"
+       id="path3051" />
+  </g>
+  <text
+     xml:space="preserve"
+     transform="matrix(0.11975718,0,0,0.11975718,9.930502,15.775323)"
+     id="text4194"
+     style="font-style:italic;font-variant:normal;font-weight:900;font-stretch:expanded;font-size:40px;line-height:1.25;font-family:Iosevka;-inkscape-font-specification:'Iosevka, Heavy Italic Expanded';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;white-space:pre;shape-inside:url(#rect4196);fill:#d79921;fill-opacity:1;stroke:none">
+    <tspan
+       x="-71.623047"
+       y="21.483063"
+       id="tspan2345">QRterm</tspan></text>
+</svg>

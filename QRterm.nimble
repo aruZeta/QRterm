@@ -11,4 +11,4 @@ bin           = @["qrterm"]
 # Dependencies
 
 requires "nim >= 1.6.0",
-         "qrgen 2.1.1"
+         "qrgen 2.2.1"
