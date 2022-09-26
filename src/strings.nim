@@ -25,6 +25,6 @@ Options:
 
   versionMsg*: string =
     """
-QRterm v1.0.0
-https://github.com/aruZeta/QRterm/releases/tag/v1.0.0
+QRterm v1.0.1
+https://github.com/aruZeta/QRterm/releases/tag/v1.0.1
     """
