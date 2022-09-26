@@ -7,7 +7,7 @@ Usage:
 
 Pass input through arguments or stdin:
   qrterm "Hello World"
-  echo "Hellow World" | qrterm
+  echo "Hello World" | qrterm
 
 Options:
 ========
