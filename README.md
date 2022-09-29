@@ -5,7 +5,7 @@ width="300px" height="300px" />
 
 # QRterm - A simple QR generator in your terminal
 
-QRterm is a simple terminal QR generator made with QRgen.
+QRterm is a simple terminal QR generator made with [QRgen](https://github.com/aruZeta/QRgen).
 
 ## Prerequisites
 
